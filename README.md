@@ -7,8 +7,8 @@
 ####  
 - 📚 Em aprendizado constante em busca de novos desafios com muita vontade de aprender até acertar.
 - 💬 Me faça uma pergunta sobre algo relacionado à Cultura DevOps Engineer. 
-- 🔭 SRE/DevOps & Cloud Engineer
-####  💻 Ferramentas e linguagens de programação, infraestrutura como código (IaC)
+- 🔭 DevOps|SRE & Cloud Engineer
+####  💻 Nuvem Pública & Ferramentas
 <p>
 <img width = "50%" align = "right" src = "https://github-readme-stats.vercel.app/api?username=mrsilvadevops&show_icons=true&hide_border=true" />
 <code> <img width = "10%" src = "https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"> </code>
@@ -24,11 +24,27 @@
 <code> <img width = "10%" src = "https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg"> </code>
 <code> <img width = "10%" src = "https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"> </code>
 <br />
+#### Monitoring
+<p>
+<code> <img width = "10%" src = "https://www.vectorlogo.zone/util/preview.html?image=/logos/zabbix/zabbix-ar21.svg"> </code>
 <code> <img width = "10%" src = "https://www.vectorlogo.zone/logos/prometheusio/prometheusio-ar21.svg"> </code>
 <code> <img width = "10%" src = "https://www.vectorlogo.zone/logos/grafana/grafana-ar21.svg"> </code>
-<code> <img width = "10%" src = "https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg"> </code>
+### Observabilidade
+<p>
+<code> <img width = "10%" src = "https://www.vectorlogo.zone/util/preview.html?image=/logos/elastic/elastic-ar21.svg"> </code>
+<code> <img width = "10%" src = "https://www.vectorlogo.zone/logos/elasticco_logstash/index.html"> </code>
+<code> <img width = "10%" src = "https://www.vectorlogo.zone/logos/elasticco_kibana/index.html"> </code>
+### infraestrutura como código (IaC)
+<p>
+<code> <img width = "10%" src = "https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg"> </code> 
+<code> <img width = "10%" src = "https://www.vectorlogo.zone/util/preview.html?image=/logos/ansible/ansible-ar21.svg"> </code>
+### linguagens de programação
+<p>
 <code> <img width = "10%" src = "https://www.vectorlogo.zone/logos/python/python-official.svg"> </code>
 </p>
+<code> <img width = "10%" src = "https://www.vectorlogo.zone/util/preview.html?image=/logos/nodejs/nodejs-horizontal.svg"> </code>
+</p>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrsilvadevops&layout=compact)](https://github.com/mrsilvadevops/github-readme-stats)
 
