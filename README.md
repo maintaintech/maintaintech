@@ -3,14 +3,14 @@
 
 - 🌱 Atualmente se especializando para entrega mais rápida de software e loop de feedback por meio de Integração Contínua / Implantação Contínua, Teste Contínuo e Monitoramento Contínuo:
 
-#### Vejam meus projetos clicando aqui no logo[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/maintaintech?tab=repositories)](https://github.com/maintaintech?tab=repositories) 🚀
+#### Vejam meus projetos clicando aqui no logo[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/mrsilvadevops?tab=repositories)](https://github.com/mrsilvadevops?tab=repositories) 🚀
 ####  
 - 📚 Em aprendizado constante em busca de novos desafios com muita vontade de aprender até acertar.
 - 💬 Me faça uma pergunta sobre algo relacionado à Cultura DevOps Engineer. 
 - 🔭 SRE/DevOps & Cloud Engineer
 ####  💻 Ferramentas e linguagens de programação, infraestrutura como código (IaC)
 <p>
-<img width = "50%" align = "right" src = "https://github-readme-stats.vercel.app/api?username=maintaintech&show_icons=true&hide_border=true" />
+<img width = "50%" align = "right" src = "https://github-readme-stats.vercel.app/api?username=mrsilvadevops&show_icons=true&hide_border=true" />
 <code> <img width = "10%" src = "https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"> </code>
 <code> <img width = "10%" src = "https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg"> </code>
 
@@ -30,7 +30,7 @@
 <code> <img width = "10%" src = "https://www.vectorlogo.zone/logos/python/python-official.svg"> </code>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maintaintech&layout=compact)](https://github.com/maintaintech/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrsilvadevops&layout=compact)](https://github.com/mrsilvadevops/github-readme-stats)
 
 #### Obrigado por visitar meu Github! :)
 
