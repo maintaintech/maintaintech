@@ -25,21 +25,17 @@
 <code> <img width = "10%" src = "https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"> </code>
 <br />
 #### Monitoring
-<p>
 <code> <img width = "10%" src = "https://www.vectorlogo.zone/util/preview.html?image=/logos/zabbix/zabbix-ar21.svg"> </code>
 <code> <img width = "10%" src = "https://www.vectorlogo.zone/logos/prometheusio/prometheusio-ar21.svg"> </code>
 <code> <img width = "10%" src = "https://www.vectorlogo.zone/logos/grafana/grafana-ar21.svg"> </code>
 ### Observabilidade
-<p>
 <code> <img width = "10%" src = "https://www.vectorlogo.zone/util/preview.html?image=/logos/elastic/elastic-ar21.svg"> </code>
 <code> <img width = "10%" src = "https://www.vectorlogo.zone/logos/elasticco_logstash/index.html"> </code>
 <code> <img width = "10%" src = "https://www.vectorlogo.zone/logos/elasticco_kibana/index.html"> </code>
 ### infraestrutura como código (IaC)
-<p>
 <code> <img width = "10%" src = "https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg"> </code> 
 <code> <img width = "10%" src = "https://www.vectorlogo.zone/util/preview.html?image=/logos/ansible/ansible-ar21.svg"> </code>
 ### linguagens de programação
-<p>
 <code> <img width = "10%" src = "https://www.vectorlogo.zone/logos/python/python-official.svg"> </code>
 </p>
 <code> <img width = "10%" src = "https://www.vectorlogo.zone/util/preview.html?image=/logos/nodejs/nodejs-horizontal.svg"> </code>
