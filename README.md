@@ -8,7 +8,7 @@
 - 📚 Em aprendizado constante em busca de novos desafios com muita vontade de aprender até acertar.
 - 💬 Me faça uma pergunta sobre algo relacionado à Cultura DevOps Engineer. 
 - 🔭 DevOps|SRE & Cloud Engineer
-####  💻 Nuvem Pública & Ferramentas
+###  💻 Ferramentas & Nuvem Pública
 <p>
 <img width = "50%" align = "right" src = "https://github-readme-stats.vercel.app/api?username=mrsilvadevops&show_icons=true&hide_border=true" />
 <code> <img width = "10%" src = "https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"> </code>
@@ -24,14 +24,16 @@
 <code> <img width = "10%" src = "https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg"> </code>
 <code> <img width = "10%" src = "https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"> </code>
 <br />
-#### Monitoring
+### Monitoring
 <code> <img width = "10%" src = "https://www.vectorlogo.zone/logos/zabbix/zabbix-ar21.svg"> </code>
-<code> <img width = "10%" src = "https://www.vectorlogo.zone/logos/prometheusio/prometheusio-ar21.svg"> </code>
 <code> <img width = "10%" src = "https://www.vectorlogo.zone/logos/grafana/grafana-ar21.svg"> </code>
 <br />
 ### Observabilidade
-<code> <img width = "10%" src = "https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg"> </code>
+<code> <img width = "10%" src = "https://www.vectorlogo.zone/logos/prometheusio/prometheusio-ar21.svg"> </code>
+<code> <img width = "10%" src = "https://raw.githubusercontent.com/cncf/landscape/daf102576816b6f85182aebbfbfa4b7b319416bf/hosted_logos/grafana-loki.svg"> </code>
+<br />
 <code> <img width = "10%" src = "https://www.vectorlogo.zone/logos/elasticco_logstash/elasticco_logstash-ar21.svg"> </code>
+<code> <img width = "10%" src = "https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg"> </code>
 <code> <img width = "10%" src = "https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-ar21.svg"> </code>
 <br />
 ### infraestrutura como código (IaC)
