@@ -29,6 +29,7 @@
 <code> <img width = "10%" src = "https://www.vectorlogo.zone/logos/grafana/grafana-ar21.svg"> </code>
 <br />
 ### Observabilidade
+<code> <img width = "10%" src = "https://miro.medium.com/max/2400/0*DFvJqhZdBTD1b-G3.png"> </code>
 <code> <img width = "10%" src = "https://www.vectorlogo.zone/logos/prometheusio/prometheusio-ar21.svg"> </code>
 <code> <img width = "10%" src = "https://raw.githubusercontent.com/cncf/landscape/daf102576816b6f85182aebbfbfa4b7b319416bf/hosted_logos/grafana-loki.svg"> </code>
 <br />
