@@ -37,11 +37,11 @@
 <code> <img width = "10%" src = "https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg"> </code>
 <code> <img width = "10%" src = "https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-ar21.svg"> </code>
 <br />
-### infraestrutura como código (IaC)
+### Infraestrutura como código (IaC)
 <code> <img width = "10%" src = "https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg"> </code> 
 <code> <img width = "10%" src = "https://www.vectorlogo.zone/logos/ansible/ansible-ar21.svg"> </code>
 <br />
-### linguagens de programação
+### Linguagens de programação
 <code> <img width = "10%" src = "https://www.vectorlogo.zone/logos/python/python-official.svg"> </code>
 <br />
 <code> <img width = "10%" src = "https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"> </code>
