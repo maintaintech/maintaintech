@@ -48,7 +48,8 @@
 <br />
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrsilvadevops&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api//top-langs?username=mrsilvadevops&show_icons=truea&layout=compact)
+
 
 #### Obrigado por visitar meu Github! :)
 
