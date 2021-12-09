@@ -10,7 +10,7 @@
 - 🔭 DevOps|SRE & Cloud Engineer
 ###  💻 Ferramentas & Nuvem Pública
 <p>
-<img width = "50%" align = "right" src = "https://github-readme-stats.vercel.app/api?username=mrsilvadevops&show_icons=true&hide_border=true" />
+<img width = "50%" align = "right" src = "https://github-readme-stats.vercel.app/api?username=mrsilvadevops&layout=compact" />
 <code> <img width = "10%" src = "https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"> </code>
 <code> <img width = "10%" src = "https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg"> </code>
 
