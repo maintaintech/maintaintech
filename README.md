@@ -7,7 +7,7 @@
 ####  
 - 📚 Em aprendizado constante em busca de novos desafios com muita vontade de aprender até acertar.
 - 💬 Me faça uma pergunta sobre algo relacionado à Cultura DevOps Engineer. 
-- 🔭 DevOps|SRE & Cloud Engineer
+- 🔭 DevOps|SRE & Platform Engineer
 ###  💻 Ferramentas & Nuvem Pública
 <p>
 <img width = "50%" align = "right" src = "https://github-readme-stats.vercel.app/api?username=mrsilvadevops&layout=compact" />
